@@ -4,6 +4,8 @@ An exploratory machine learning project with the aim to classify hand gestures f
 Submitted as the final Computer Science project in Grade XII in 2022.
 For a detailed overview, working, and methodology refer to [the project file](<Hand Gesture Recognition.pdf>)
 
+A demonstration of the project operating on a live camera feed is available [as a video](Demonstration.mp4).
+
 Following are some classifications carried out by the model (also available in [the project file](<Hand Gesture Recognition.pdf>)):
 
 ![L classified as L](images/L%20as%20L.png)
