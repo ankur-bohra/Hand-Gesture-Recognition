@@ -1,6 +1,6 @@
 # Hand-Gesture-Recognition
 
-An exploratory machine learning project with the aim to classify hand gestures from a live camera feed as letters and symbols from the American Sign Language (ASL).
+An exploratory machine learning project with the aim to classify hand gestures from a live camera feed as letters and symbols from the American Sign Language (ASL). The model was trained on Google Colab.
 Submitted as the final Computer Science project in Grade XII in 2022.
 For a detailed overview, working, and methodology refer to [the project file](<Hand Gesture Recognition.pdf>)
 
